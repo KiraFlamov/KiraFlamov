@@ -93,7 +93,6 @@ Flask, SQLAlchemy, SQLite, Python
 
 ## 📫 Контакты
 
-- GitHub: https://github.com/KiraFlamov
 - Email: kirillvoldiner@gmail.com
 - Telegram: https://t.me/drflamov
 
